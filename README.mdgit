@@ -1,0 +1,1 @@
+# sample_app  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/sossodef33/sample_app.gitgit push -u origin master
