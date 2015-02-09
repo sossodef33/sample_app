@@ -49,4 +49,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin]
 group :development, :test do 
     gem 'rspec-rails' 
 	gem 'webrat'
+	gem 'spork'
 end
